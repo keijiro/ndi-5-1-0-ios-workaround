@@ -17,6 +17,6 @@ namespace Processing {
 
 int main()
 {
-	NDIlib_recv_destroy(NDIlib_recv_create_v3());
+    NDIlib_recv_destroy(NDIlib_recv_create_v3());
     return 0;
 }
